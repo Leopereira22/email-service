@@ -1,0 +1,9 @@
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\core\EmailRequest.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\EmailServiceApplication.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\adapters\EmailSenderGateway.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\core\EmailSenderUseCase.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\core\exceptions\EmailServiceException.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\application\EmailSenderService.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\controllers\EmailSenderController.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\infra\ses\SesEmailSender.java
+C:\Users\pasto\OneDrive\Documentos\projetos\email-service\src\main\java\com\pastorin\emailservice\infra\config\AwsSesConfig.java

@@ -1,0 +1,9 @@
+com\pastorin\emailservice\adapters\EmailSenderGateway.class
+com\pastorin\emailservice\core\exceptions\EmailServiceException.class
+com\pastorin\emailservice\infra\ses\SesEmailSender.class
+com\pastorin\emailservice\core\EmailRequest.class
+com\pastorin\emailservice\EmailServiceApplication.class
+com\pastorin\emailservice\infra\config\AwsSesConfig.class
+com\pastorin\emailservice\application\EmailSenderService.class
+com\pastorin\emailservice\controllers\EmailSenderController.class
+com\pastorin\emailservice\core\EmailSenderUseCase.class
